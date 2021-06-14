@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Faker	</title>
+	<atom:link href="http://localhost/myproject/wordpress/2021/06/14/faker/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kiet-tuan.github.io/wordpress_Kiet/2021/06/14/faker/</link>
+	<description>Wordpress is my life</description>
+	<lastBuildDate>Mon, 14 Jun 2021 08:49:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: kietvu0106		</title>
+		<link>https://kiet-tuan.github.io/wordpress_Kiet/2021/06/14/faker/#comment-2</link>
+
+		<dc:creator><![CDATA[kietvu0106]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 08:49:24 +0000</pubDate>
+		<guid isPermaLink="false">https://kiet-tuan.github.io/wordpress_Kiet/?p=202#comment-2</guid>
+
+					<description><![CDATA[pla pla]]></description>
+			<content:encoded><![CDATA[<p>pla pla</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
